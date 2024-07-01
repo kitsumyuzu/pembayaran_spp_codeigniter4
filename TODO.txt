@@ -1,0 +1,5 @@
+- Mengganti input data, ambil langsung dari detail bill dan bisa di edit lagi datanya
+- Perbaiki invoice guru 
+- Perbaiki pembayaran
+- Membuat ketika sudah bayar yang data pelunasan akan pergi ke transaksi(invoice_id, tanggal_lunas)
+- akuntan tidak boleh mengakses bagian user
